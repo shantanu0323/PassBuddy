@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941533126484",
+    "firebase_url": "https://passbuddy-2af92.firebaseio.com",
+    "project_id": "passbuddy-2af92",
+    "storage_bucket": "passbuddy-2af92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941533126484:android:0795291909ad5169",
+        "android_client_info": {
+          "package_name": "shantanu.passbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941533126484-1oor1k6vbu5sodvp6iqeb8hp4qm2h46d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shantanu.passbuddy",
+            "certificate_hash": "36290022541bbeb7f3d46eed7ebb95aaf565f938"
+          }
+        },
+        {
+          "client_id": "941533126484-l1j4parup8ptij7fo4arfra0lhktkjv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTuUupPd9j1lU92EFdFU5I380QnTrWuBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941533126484-l1j4parup8ptij7fo4arfra0lhktkjv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
